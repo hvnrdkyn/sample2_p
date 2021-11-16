@@ -1,0 +1,6 @@
+sample_pのPullRequest練習
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+　sample2_p_file2.txtをブランチ(add-myfile)に追加
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
